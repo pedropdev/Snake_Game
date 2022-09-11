@@ -1,6 +1,6 @@
 # Snake_Game
 
-Made utilizing integrated,
+Made by utilizing integrated,
 Python turtle graphics.
 
 https://docs.python.org/3/library/turtle.html
